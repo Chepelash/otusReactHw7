@@ -1,0 +1,12 @@
+.tipContent {
+  background-color: khaki;
+  color: black;
+  opacity: 70%;
+  padding: 1cap;
+  border-radius: 25%;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -100%);
+  width: max-content;
+}
